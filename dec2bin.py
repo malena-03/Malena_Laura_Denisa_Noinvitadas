@@ -1,5 +1,5 @@
 # ------------------------------------------------------
-# Convierte un número decimal positivo a binario usando un 
+# Convierte un número decimal positivo a binario usando un HE `PISADO ESTAS TIERRAS OSCURAS DENISA
 #   determinado número de bits.
 # El binario resultante es un string e.g. "101"
 # Se usa la función bin() que transforma e.g. 3 en "0b11".
